@@ -21,7 +21,7 @@ In this activity, a fictional company employee database was requested. That cons
 
 ## Data Modeling - ERD
 
-![Data Modeling - ERD](https://github.com/cami5326/.png)
+![Data Modeling - ERD](https://github.com/cami5326/sql-challenge/blob/main/EmployeeSQL/Data%20Modeling_ERD.png)
 
 
 —
